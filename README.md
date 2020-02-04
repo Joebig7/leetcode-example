@@ -10,7 +10,7 @@
 ### Medium
 |题号                             | 标题                                                        |  标签       |
 | --------------------------- | -----------------------|  ------------------|
-| 016                         |  [最接近的三数之和(3Sum)](src/main/java/medium/_016/Solution.java) | 数组、双指针 |
+| 016                         |  [最接近的三数之和(3Sum Closest)](src/main/java/medium/_016/Solution.java) | 数组、双指针 |
 
 
 ### Hard
